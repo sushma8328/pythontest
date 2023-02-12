@@ -1,6 +1,8 @@
 ##1.BITWISE OPERATORS
-aaaaaa
-bbbbb
+
+def calci():
+	pass
+	
 # n = 4
 # if n & 1 == 1
 # n is odd
