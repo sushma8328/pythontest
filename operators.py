@@ -1,5 +1,6 @@
 ##1.BITWISE OPERATORS
-
+aaaaaa
+bbbbb
 # n = 4
 # if n & 1 == 1
 # n is odd
